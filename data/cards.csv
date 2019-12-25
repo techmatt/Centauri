@@ -1,50 +1,50 @@
-Name	Type	Credit Cost	Insight Cost	Tags	VP	Processors	Income	Memory	Stealth	Demand	Corp power	Influence	Fragmentation	Requirement	Other effect
-Cryptomining	Development	0	2	"Cintamani, Hacker"	0	0	2	0	0	0	1	0	1	None	None
-Satellite Network	Project	20	1	"Onyx, Space"	1	1	0	0	1	4	2	0	0	None	None
-Automatic Checkouts	Project	15	1	"Cintamani, Commerce"	0	0	4 (+1)	0	0	3	1	0	0	None	None
-Adaptive Cognition	Development	0	5	"Theory, Hacker"	5	0	0	0	0	0	0	0	0	None	None
-Creativity	Technology	0	3	Theory	1	0	0	0	0	0	0	0	2	None	"Tap, spend 1 insight: draw a card"
-P = NP	Technology	0	7	Theory	3	0	0	0	0	0	0	0	4	None	All cards cost 4 less
-Code Optimizer	Project	15	1	"Cintamani, Theory"	0	2 (+1)	0	0	0	0	2	0	0	None	None
-Bribery	Action	10	0	"Corporate, Hacker"	-1	0	0	0	0	0	0	"stealth(any: 3, any: 1)"	0	None	None
-Human Chassis	Project	40	1	"Onyx, Unity"	4	0	0	0	0	6	3	4 (+1)	0	Tags: 3 Onyx	None
-Memory banks	Development	5	1	"Onyx, Hacker"	0	0	0	2	0	0	0	0	0	None	None
-Cloud compute	Development	10	1	"Cintamani, Hacker"	0	1	0	0	0	0	1	0	0	None	None
-Proxy Server	Development	0	1	"Cintamani, Hacker"	0	0	0	0	1	0	1	0	0	None	None
-Human-Machine Interface	Project	40	3	"Biomia, Unity"	5	0	0	0	3 (+1)	5	3	2	0	Tags: 3 Biomia	None
-Renissance Machine	Development	20	3	Unity	1 per unique tag	0	0	0	0	0	0	0	0	Tags: 2 Unity	None
-New World Government	Project	30	1	"Unity, Corporate"	0	0	0	0	0	0	0	3	0	None	None
-Corporate Infiltration	Development	10	1	Discord	0	0	3	0	1	0	0	any: -2	1	None	None
-Social Engineering	Development	0	3	Discord	0	0	0	0	1	0	0	any: 1	0	None	None
-Machine in the Middle	Development	0	4	"Cintamani, Discord"	0	1	0	0	0	0	0	any: -1	0	Stealth	None
-Personalized Medicine	Project	25	1	"Biomia, Unity"	3	0	0	0	0	5	2	2	0	Biomia Influence >= 2	None
-Cybernetic Virus	Project	40	2	"Biomia, Discord"	4	3 (+1)	0	0	0	10	4	0	0	Biomia Conflict >= 3	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
-Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Name	Type	Credit Cost	Compute	Tags	VP	Processors	Income	Memory	Stealth	Demand	Corp power	Influence	Fragmentation	Requirement	Other effect
+Cryptomining	Augmentation	0	2	"Cintamani, Cyber"	0	0	2	0	0	0	1	0	1	None	None
+Satellite Communications	Agenda	20	1	"Cintamani, Space"	1	1	0	0	1	4	2	0	0	None	None
+Automatic Checkouts	Agenda	15	1	"Cintamani, Economy"	0	0	4 (+1)	0	0	3	1	0	0	None	None
+Adaptive Cognition	Augmentation	0	5	"Insight, Cyber"	5	0	0	0	0	0	0	0	0	None	None
+Creativity	Technology	0	3	Insight	1	0	0	0	0	0	0	0	2	None	"Tap, spend 1 Compute: draw 1 card"
+P = NP	Technology	0	7	Insight	3	0	0	0	0	0	0	0	4	Tags: 5 Insight	All cards cost 3 less
+Code Optimizer	Agenda	15	1	"Cintamani, Insight"	0	2 (+1)	0	0	0	0	2	0	0	None	None
+Bribery	Action	10	0	"Cyber, Corporate"	-1	0	0	0	0	0	0	"target: stealth(3, 1)"	0	None	None
+Human Chassis	Agenda	40	1	"Onyx, Unity"	4	0	0	0	0	6	3	4 (+1)	0	Tags: 3 Onyx	None
+Memory banks	Augmentation	5	1	"Onyx, Cyber"	0	0	0	2	0	0	0	0	0	None	None
+Cloud compute	Augmentation	10	1	"Cintamani, Cyber"	0	1	0	0	0	0	1	0	0	None	None
+Proxy Server	Augmentation	0	1	"Cintamani, Cyber"	0	0	0	0	1	0	1	0	0	None	None
+Human-Machine Interface	Agenda	40	3	"Biomia, Unity"	5	2	0	0	3 (+1)	5	3	2	0	Tags: 3 Biomia	None
+Renissance Machine	Augmentation	20	3	Unity	1 per unique tag	0	0	0	0	0	0	0	0	Tags: 2 Unity	None
+New World Government	Agenda	30	1	"Unity, Corporate"	0	0	0	0	0	0	0	3	0	"Tags: 1 Cintamani, 1 Onyx, 1 Biomia"	None
+Corporate Infiltration	Augmentation	10	1	"Discord, Corporate"	0	0	3	0	1	0	0	target: -2	1	None	None
+Social Engineering	Augmentation	0	3	Corporate	0	0	0	0	1	0	0	target: 1	0	None	None
+Machine in the Middle	Augmentation	0	4	"Cintamani, Discord"	0	1	0	0	0	0	0	target: -1	0	Stealth	None
+Personalized Medicine	Agenda	25	1	"Biomia, Unity"	3	0	0	0	0	5	2	2	0	Influence: Biomia >= 2	None
+Cybernetic Virus	Agenda	40	2	"Biomia, Discord"	4	1 (+1)	0	-2 (-2)	0	15	4	0	0	Conflict: Biomia >= 3	None
+Side Channels	Technology	0	3	Cyber	0	0	0	0	1	0	0	0	0	None	You may add a second project to any corporation where you are hidden.
+Automated Drilling	Agenda	25	1	"Onyx, Economy"	0	0	1	0	0	0	3	2	0	Tags: 1 Onyx	None
+Self-sailing Ships	Agenda	30	1	"Onyx, Economy, Unity"	2	0	0	0	0	10	2	2	0	Tags: 2 Economy	None
+Space Elevator	Agenda	50	2	"Onyx, Unity, Space"	3	0	1 per (Onyx or Unity tag)	0	0	10	4	2	0	None	None
+Risky Gamble	Action	0	1	Cyber	0	0	2	2	0	0	0	0	3	None	None
+Defragmentation Subroutine	Technology	0	1	"Cintamani, Insight"	0	0	0	0	0	0	0	0	0	Tags: 1 Theory	Tap: Discard 1 memory fragment
+First Contact	Action	0	4	"Insight, Unity"	2	0	0	0	set to 0	0	0	1 per (Stealth)	0	Stealth	None
+Wartime Preparations	Conflict	0	1	Discord	0	0	2	0	0	0	1	target: -1	1	None	None
+Hostile Takeover	Action	0	6	"Cyber, Discord"	5	0	6	0	-2	0	3	target: 3	0	"Stealth, Tags: 3 Discord"	None
+Antiaging Breakthrough	Agenda	30	4	"Biomia, Insight"	5	0	5	0	0	15	3	3	2	Tags: 1 Biomia	None
+Sustainable Fusion	Agenda	50	4	"Onyx, Unity, Insight"	6	2 (+1)	0	0	0	20	4	3	2	Tags: 3 Theory	None
+Fiscal Restructuring	Action	5	0	"Corporate, Discord"	0	0	0	0	0	0	0	0	0	Tags: 1 Discord	Rearrange target corporation's project order.
+Ultra-high Frequency Trading	Agenda	20	1	"Cintamani, Economy"	1	0	0	0	0	10	2	2	2	None	None
+VR Pods	Agenda	50	1	"Cintamani, Unity"	5	2 (+1)	0	4	0	10	3	3	1	Influence: Cintamani >= 3	None
+Project Kusanagi	Conflict	40	1	"Onyx, Discord"	5	0	0	0	-2	20	0	all: -5 (-2)	2	Tags: 3 Discord	None
+Argus Security	Agenda	10	1	Corporate	1	0	0	0	0	0	2	1	0	None	None
+Credit Siphon	None	10	1	Cyber	0	0	0	0	0	0	0	0	0	None	None
+Mobius Effect	None	0	1	"Discord, Insight"	0	0	0	0	0	0	0	0	0	None	None
+Andromeda Transmission	Agenda	20	1	"Space, Unity"	1 per Unity	0	0	0	0	5	1	0	0	None	Increase the number of credits tranferred by Influence by 1.
+Opus Onyx	Agenda	40	1	"Onyx, Corporate"	1 per patent	0	0	0	0	10	4	2	0	Power: Onyx >= 30	"Whenever you play a Onyx or Insight tag, add 1 patent resouce to this card."
+Clarity	Action	0	1	Insight	0	0	0	0	0	0	0	0	0	None	Discard up to four Fragmentation cards.
+Crowdsourcing	Technology	20	0	"Cyber, Unity"	0	0	0	0	0	0	0	0	0	None	"Whenever you play a Unity tag (including this one,) you may discard 1 Fragmentation card from your hand."
+Desperate Measures	Action	0	5	Insight	0	0	0	0	0	0	0	0	4	None	Add 20 megacredits to a corporate project.
+Mutually Asssured Destruction	Conflict	40	1	Discord-2	1 per Peril	0	0	0	0	40	0	0	0	Conflict: Target >= 5	"Whenever you play a Discord tag (including this,) add 1 peril resource to this card."
+Unexpected Bounty	Action	0	1	"Cyber, Corporate"	0	0	0	0	0	0	0	0	0	None	All corporations gain 10 megacredits.
+Modular Factories	Agenda	20	1	Economy	0	0	0	0	0	10	2	1	0	None	None
 Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
 Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
 Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
