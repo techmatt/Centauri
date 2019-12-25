@@ -1,0 +1,73 @@
+Name	Type	Credit Cost	Insight Cost	Tags	VP	Processors	Income	Memory	Stealth	Demand	Corp power	Influence	Fragmentation	Requirement	Other effect
+Cryptomining	Development	0	2	"Cintamani, Hacker"	0	0	2	0	0	0	1	0	1	None	None
+Satellite Network	Project	20	1	"Onyx, Space"	1	1	0	0	1	4	2	0	0	None	None
+Automatic Checkouts	Project	15	1	"Cintamani, Commerce"	0	0	4 (+1)	0	0	3	1	0	0	None	None
+Adaptive Cognition	Development	0	5	"Theory, Hacker"	5	0	0	0	0	0	0	0	0	None	None
+Creativity	Technology	0	3	Theory	1	0	0	0	0	0	0	0	2	None	"Tap, spend 1 insight: draw a card"
+P = NP	Technology	0	7	Theory	3	0	0	0	0	0	0	0	4	None	All cards cost 4 less
+Code Optimizer	Project	15	1	"Cintamani, Theory"	0	2 (+1)	0	0	0	0	2	0	0	None	None
+Bribery	Action	10	0	"Corporate, Hacker"	-1	0	0	0	0	0	0	"stealth(any: 3, any: 1)"	0	None	None
+Human Chassis	Project	40	1	"Onyx, Unity"	4	0	0	0	0	6	3	4 (+1)	0	Tags: 3 Onyx	None
+Memory banks	Development	5	1	"Onyx, Hacker"	0	0	0	2	0	0	0	0	0	None	None
+Cloud compute	Development	10	1	"Cintamani, Hacker"	0	1	0	0	0	0	1	0	0	None	None
+Proxy Server	Development	0	1	"Cintamani, Hacker"	0	0	0	0	1	0	1	0	0	None	None
+Human-Machine Interface	Project	40	3	"Biomia, Unity"	5	0	0	0	3 (+1)	5	3	2	0	Tags: 3 Biomia	None
+Renissance Machine	Development	20	3	Unity	1 per unique tag	0	0	0	0	0	0	0	0	Tags: 2 Unity	None
+New World Government	Project	30	1	"Unity, Corporate"	0	0	0	0	0	0	0	3	0	None	None
+Corporate Infiltration	Development	10	1	Discord	0	0	3	0	1	0	0	any: -2	1	None	None
+Social Engineering	Development	0	3	Discord	0	0	0	0	1	0	0	any: 1	0	None	None
+Machine in the Middle	Development	0	4	"Cintamani, Discord"	0	1	0	0	0	0	0	any: -1	0	Stealth	None
+Personalized Medicine	Project	25	1	"Biomia, Unity"	3	0	0	0	0	5	2	2	0	Biomia Influence >= 2	None
+Cybernetic Virus	Project	40	2	"Biomia, Discord"	4	3 (+1)	0	0	0	10	4	0	0	Biomia Conflict >= 3	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
+Blank	None	0	1		0	0	0	0	0	0	0	0	0	None	None
